@@ -1,7 +1,7 @@
 
 
 
-# yosh = int(input('yosh?'))
+# yosh = int(input('yooosh?'))
 
 # if 0<=yosh<=6:
 #     print('Bogchga yoshdasiz' )

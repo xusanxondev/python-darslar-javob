@@ -1,4 +1,4 @@
-
+#takrorlash lugatdan
 # talabalar = {
 #     'Ali': 'S001',
 #     'Vali': 'S002',
